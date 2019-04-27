@@ -1,0 +1,171 @@
+div{
+	align-content: center;
+	
+}
+
+
+#header{
+	font-weight: bold;
+	font-size:50px;
+	color: white;
+	height:100px;
+	width:100px;
+	margin-left:850px;
+	
+	
+	
+
+}
+#button
+{
+	width:128px;
+	height:128px;
+	left:850px;
+	margin-top:300px;
+	background:url(cookie.png);
+	position:fixed;
+	cursor:pointer;
+}
+#button:hover
+{
+	background-position:-128px;
+}
+#button:active
+{
+	background-position:-256px;
+}
+
+.Zechariah {
+  position: fixed;
+  font-size: 10px;
+  width:100%;
+  background-color: gray;
+  border: 2px solid darkgray;
+  left:0px;
+  bottom:0px;
+  margin:0px;
+  z-index:100000000;
+}
+
+#cookies{
+	background:url(currency.png) no-repeat;
+	background-color:#fff;
+	background-color:rgba(255,255,255,0.75);
+	border-radius:18px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	text-align:left;
+	margin:16px;
+	height:28px;
+	padding:4px 6px 0px 36px;
+	font-weight:bold;
+	font-size:24px;
+	z-index:100;
+	float:left;
+
+}
+
+#shop{
+	
+	height:100%;
+	position:absolute;
+	top:0px;
+	right:300px;
+	
+
+	
+	
+
+}
+.shopbuttons{
+	position:absolute;
+	width:296px;
+	height:64px;
+	border: 2px solid black;
+	background-color:lightgrey;
+	
+
+
+}
+.cursor{
+
+	background-image:url(cursoricon.png);
+	background-position:10px;
+
+	
+	
+}
+.cookiebro{
+	
+	top:65px;
+	background-image:url(cookiebro.png);
+	background-repeat: no-repeat;
+	background-position:240px;
+	
+	
+	
+	
+}
+#cookiebros{
+	color:blue;
+}
+#cursors{
+	color:blue;
+}
+
+
+#cookiepicamount{
+	position: absolute;
+	width:50px;
+	height:50px;
+	margin-top:20px;
+	border:2px solid black;
+	border-width: 20px solid black;
+	float: left;
+}
+#cheatmode{
+	position:absolute;
+	width:296px;
+	height:64px;
+	border: 2px solid black;
+	background-color:lightgrey;
+	
+	
+}
+#saves{
+	position:absolute;
+	top:500px;
+	width:296px;
+	height:64px;
+	border: 2px solid black;
+	background-color:lightgrey;	
+	
+}
+
+.greyed{
+	background-color:darkgrey;
+	color:red;
+	
+}
+
+
+
+
+body{
+	background-color: limegreen;
+	font-family:Tahoma,Arial,sans-serif;
+	-moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer */
+    -khtml-user-select: none; /* KHTML browsers (e.g. Konqueror) */
+    -webkit-user-select: none; /* Chrome, Safari, and Opera */
+    -webkit-touch-callout: none; /* Disable Android and iOS callouts*/
+	
+
+}
+
+
+
+
+
+
